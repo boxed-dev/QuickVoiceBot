@@ -6,9 +6,7 @@ import shutil
 import time
 from deepgram import Deepgram
 
-# brew install portaudio
 
-# Load environment variables
 load_dotenv()
 
 # Set your Deepgram API Key and desired voice model
